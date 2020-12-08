@@ -33,4 +33,8 @@ The algorithm of transformation is stated below:
 
 <img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/algo.png" width = 744 height=733>  
 
+~  
 
+By applying the algorithm above, the resultant image is:  
+
+<img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/book_A4.png" width = 350 height = 269>  
