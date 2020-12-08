@@ -15,7 +15,9 @@ Then the coordinates of the four corners are obtained:
 ```matlab
 [X Y] = ginput(4)
 ```  
+
 <img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/coordx.png" width = 130 height=140>
+
 <img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/coordy.png" width = 130 height=140>  
 
 
