@@ -15,7 +15,9 @@ Then the coordinates of the four corners are obtained:
 ```matlab
 [X Y] = ginput(4)
 ```  
-<img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/coordx.png" width = 130 height=140>  
+<img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/coordx.png" width = 130 height=140>
+<img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/coordy.png" width = 130 height=140>  
+
 
 The standard coordinates for corners of a image of A4 dimensions are:  
 ```matlab
@@ -24,5 +26,7 @@ y = [0, 297, 297, 0];
 ```  
 
 The algorithm of the transformation is stated below:  
+  
+-
 <img src = "https://github.com/StephanieMussi/Recover_Image_With_Perspective_Distortion_MatLab/blob/main/Figures/algo.png" width = 744 height=733>  
 
